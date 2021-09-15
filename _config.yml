@@ -16,7 +16,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "www.pao.gr"
+    - Beautiful Jekyll: "https://www.pao.gr"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "123tommyd.com"
 
