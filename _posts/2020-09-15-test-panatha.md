@@ -5,7 +5,7 @@ subtitle: Οι Πράσινοι επικράτησαν με 4-0 του Απόλ�
 cover-img: /assets/img/pao_apolon.jpg
 thumbnail-img: /assets/img/pao_apolon.png    
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [pao, win, goal, apolon]
 comments: true
 ---
 Article from Pao.gr 
