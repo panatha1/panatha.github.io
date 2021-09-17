@@ -1,6 +1,5 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
-![Saravakos_Zajec](assets/img/Saravakos_Zajec.jpg)
-![Installation steps](assets/img/install-steps.gif)
+![Saravakos_Zajec](https://user-images.githubusercontent.com/90224779/133853270-61660908-8d1c-4350-b767-22cff70bbe3a.jpg)
+
 ---
 layout: post
 title: ΜΕΓΑΛΕΣ ΣΤΙΓΜΕΣ
