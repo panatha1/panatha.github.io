@@ -12,7 +12,7 @@ tags: [παο παιχτες ρετρο]
 
 Coming soon!!!
 
-![Saravakos_Zajec](assets/img/Saravakos_Zajec.jpg)
+![Saravakos_Zajec](/assets/img/Saravakos_Zajec.jpg)
 
 ΠΑΟ ΟΛΕ!!!
 
