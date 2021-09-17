@@ -10,8 +10,10 @@ tags: [books, test]
 ---
 
 ![Saravakos_Zajec](assets/img/Saravakos_Zajec.jpg)
+
 Coming soon!!!
 
 /assets/img/Saravakos_Zajec.jpg
 ![Installation steps](assets/img/install-steps.gif)
+
 
