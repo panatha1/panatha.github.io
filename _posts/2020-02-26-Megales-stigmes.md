@@ -9,5 +9,9 @@ share-img: /assets/img/pao1280.jpg
 tags: [books, test]
 ---
 
-![Saravakos_Zajec](https://user-images.githubusercontent.com/90224779/133851598-e3f32372-48a9-4484-90f8-5712bd91edbc.jpg)
+![Saravakos_Zajec](assets/img/Saravakos_Zajec.jpg)
 Coming soon!!!
+
+/assets/img/Saravakos_Zajec.jpg
+![Installation steps](assets/img/install-steps.gif)
+
