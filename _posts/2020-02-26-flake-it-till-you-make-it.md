@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: ΜΕΓΑΛΕΣ ΣΤΙΓΜΕΣ
+subtitle: Παιχταραδες!!!!
 cover-img: /assets/img/pao1280.jpg
-thumbnail-img: /assets/img/13message.jpg
+cover-img: /assets/img/Rocha_Zajec.jpg
+thumbnail-img: /assets/img/Saravakos_Zajec.jpg
 share-img: /assets/img/pao1280.jpg
 tags: [books, test]
 ---
