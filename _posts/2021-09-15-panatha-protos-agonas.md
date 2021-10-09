@@ -3,7 +3,7 @@ layout: post
 title: Εκρηκτικός Παναθηναϊκός και «4άρα» στην πρεμιέρα
 subtitle: Οι Πράσινοι επικράτησαν με 4-0 του Απόλλωνα Σμύρνης στη Λεωφόρο
 cover-img: /assets/img/pao_apolon.jpg
-thumbnail-img: /assets/img/parta.jpg   
+thumbnail-img: /assets/img/paoapolon.jpg   
 gh-badge: [star, fork, follow]
 tags: [pao, win, goal, apolon]
 comments: true
