@@ -8,7 +8,6 @@ gh-badge: [star, fork, follow]
 tags: [pao, win, goal, apolon]
 comments: true
 ---
-![parta](/assets/img/parta.jpg)
 Article from Pao.gr 
 
 Ο Παναθηναϊκός ήταν εκρηκτικός στην πρεμιέρα του πρωταθλήματος Super League Interwetten. Οι Πράσινοι πραγματοποίησαν σπουδαία εμφάνιση, επικράτησαν 4-0 του Απόλλωνα Σμύρνης στο «Απ. Νικολαΐδης» και έκαναν κάτι περισσότερο από ιδανική εκκίνηση.
